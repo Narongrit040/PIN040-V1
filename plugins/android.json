@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.psupin"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.example.psupin"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.example.psupin"
+    },
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_ANDROID": "AIzaSyDGzULKJZDHUFYin7q5jRimK8uuE9Ag90I",
+      "PACKAGE_NAME": "com.example.psupin"
+    }
+  },
+  "dependent_plugins": {}
+}
